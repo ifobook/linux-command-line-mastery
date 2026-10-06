@@ -119,3 +119,18 @@ Example:
 
 ```bash
 cd /Users/macbookpro/devOps/linux-command-line-mastery
+
+
+# Task 3: System Monitoring and Administration
+
+## Objective
+
+Inspect system health, monitor running processes, check disk and memory usage, inspect system uptime, identify users and groups, and practice file permissions and ownership.
+
+## Process Monitoring
+
+The following commands were used to inspect running processes:
+
+```bash
+ps aux
+ps aux | head -20
