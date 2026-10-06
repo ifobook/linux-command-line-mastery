@@ -87,3 +87,35 @@ No major issues were encountered during Task 1.
 - [x] Use `tail`
 - [x] Search files with `find`
 - [x] Search file contents with `grep`
+
+
+
+
+# Task 2: Directory Navigation
+
+## Objective
+
+Practice navigating the filesystem using absolute and relative paths, creating nested directories, and exploring standard filesystem locations.
+
+## Commands Practiced
+
+| Command | Purpose |
+|---|---|
+| `pwd` | Display the current working directory |
+| `cd` | Change the current directory |
+| `cd ..` | Move to the parent directory |
+| `cd -` | Return to the previous working directory |
+| `cd ~` | Navigate to the user's home directory |
+| `mkdir` | Create directories |
+| `mkdir -p` | Create nested directories |
+| `ls` | List directory contents |
+| `find` | Search for files and directories |
+
+## Absolute Paths
+
+An absolute path starts from the filesystem root `/`.
+
+Example:
+
+```bash
+cd /Users/macbookpro/devOps/linux-command-line-mastery
