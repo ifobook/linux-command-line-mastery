@@ -134,3 +134,17 @@ The following commands were used to inspect running processes:
 ```bash
 ps aux
 ps aux | head -20
+
+
+# Task 4: Networking Basics
+
+## Objective
+
+Practice basic network troubleshooting and inspection using connectivity tests, network interface information, routing tables, and active network connections.
+
+## Connectivity Testing
+
+The local network stack was tested using:
+
+```bash
+ping -c 4 127.0.0.1
