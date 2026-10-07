@@ -148,3 +148,17 @@ The local network stack was tested using:
 
 ```bash
 ping -c 4 127.0.0.1
+
+
+# Task 5: Pipes and Redirection
+
+## Objective
+
+Practice shell input/output redirection and command pipelines using `>`, `>>`, `2>`, pipes, `grep`, `awk`, `sort`, and `uniq`.
+
+## Output Redirection
+
+The `>` operator was used to create a file and redirect command output into it:
+
+```bash
+printf "Apple\nBanana\nOrange\nMango\n" > artifacts/pipes-redirection-test/fruits.txt
