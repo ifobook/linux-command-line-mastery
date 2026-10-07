@@ -1,0 +1,14 @@
+==================================
+       SYSTEM REPORT
+==================================
+User: macbookpro
+Hostname: macbooks-MacBook-Pro.local
+Date: Wed Oct  7 02:06:01 WAT 2026
+Report directory: EXISTS
+
+Directory Contents:
+- application.log
+- config.txt
+
+Disk Usage:
+/dev/disk3s5   926Gi    82Gi   807Gi    10%    937k  8.5G    0%   /System/Volumes/Data

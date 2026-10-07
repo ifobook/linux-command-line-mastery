@@ -162,3 +162,17 @@ The `>` operator was used to create a file and redirect command output into it:
 
 ```bash
 printf "Apple\nBanana\nOrange\nMango\n" > artifacts/pipes-redirection-test/fruits.txt
+
+
+# Task 6: Shell Scripting
+
+## Objective
+
+Create and execute a reusable Bash script demonstrating variables, conditionals, loops, directory creation, output redirection, command substitution, system commands, and logging.
+
+## Script
+
+The reusable script is located at:
+
+```text
+scripts/system_report.sh
